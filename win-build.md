@@ -1,4 +1,4 @@
-## Chrome Build
+## Chrome Windows Build
 
 * Run cmd as administrator
 * fetch interruption => ` gclient runhooks `
@@ -31,6 +31,3 @@ devenv out\Default\all.sln
 ```sh
 autoninja -C out\Default chrome
 ```
-
-## Developer Build
-## Developer (S. M. AMRAN) Build
